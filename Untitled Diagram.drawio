@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T00:21:11.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0eoFLBYYZNXhMZX8a5Oz" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T00:27:37.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-GNbV6LyGmbWlYLV9igG" version="20.4.0" type="github">
   <diagram id="pa6XWRNewmF_RHwa3scV" name="Page-1">
-    <mxGraphModel dx="1740" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RRqdGAsxoy1FdDmPXSII-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRqdGAsxoy1FdDmPXSII-1" target="RRqdGAsxoy1FdDmPXSII-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RRqdGAsxoy1FdDmPXSII-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Begin: assignment_three.py:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-b3acf94e-7fff-1f7b-59c8-6a6939bb219d&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;program will have two primary functions and helper functions, such as main().&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="290" height="140" as="geometry" />
+        <mxCell id="RRqdGAsxoy1FdDmPXSII-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Begin:&lt;br&gt;assignment_three.py:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-b3acf94e-7fff-1f7b-59c8-6a6939bb219d&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;program will have two primary functions and helper functions, such as main().&amp;nbsp;Include header comments at the top with name, date last modified and purpose of program.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;spacing=27;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="RRqdGAsxoy1FdDmPXSII-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRqdGAsxoy1FdDmPXSII-2" target="RRqdGAsxoy1FdDmPXSII-6">
           <mxGeometry relative="1" as="geometry" />
@@ -35,19 +35,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RRqdGAsxoy1FdDmPXSII-12" value="&lt;span id=&quot;docs-internal-guid-d201ddb9-7fff-ac71-1d9e-6932e37286a2&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Modify program to get input from the user: length, width, and height.&lt;/span&gt;&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;spacingLeft=0;spacingRight=0;spacing=17;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="210" height="130" as="geometry" />
+          <mxGeometry x="470" y="400" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RRqdGAsxoy1FdDmPXSII-14" value="&lt;b id=&quot;docs-internal-guid-db304ff4-7fff-bbc4-e4da-ecc398f0b9fa&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Define a function that prints out the purpose of the program and instructions for the user.&lt;/span&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;spacingLeft=0;spacingRight=0;spacing=17;" vertex="1" parent="1">
-          <mxGeometry x="230" y="520" width="229.38" height="130" as="geometry" />
+          <mxGeometry x="340" y="500" width="229.38" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RRqdGAsxoy1FdDmPXSII-16" value="&lt;span id=&quot;docs-internal-guid-d1c4fba4-7fff-7ddf-a1aa-2551b7d89ff7&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Define THREE functions that take no parameters, ask a user for length, width, and height respectively, and return those values&lt;/span&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;spacingLeft=0;spacingRight=0;spacing=17;" vertex="1" parent="1">
-          <mxGeometry x="470" y="520" width="249.38" height="130" as="geometry" />
+          <mxGeometry x="580" y="500" width="249.38" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RRqdGAsxoy1FdDmPXSII-18" value="&lt;span id=&quot;docs-internal-guid-bf40f56d-7fff-f17d-5b60-7681d7a6a7a1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Define a main() function that calls all others in the correct order&lt;/span&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;fontFamily=Verdana;fontSize=12;spacing=7;" vertex="1" parent="1">
-          <mxGeometry x="310" y="720" width="300" height="150" as="geometry" />
+          <mxGeometry x="420" y="700" width="300" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RRqdGAsxoy1FdDmPXSII-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Make sure that each functions has an appropriate docstring describing what the function does.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The main function does NOT have to have a docstring.&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;fontFamily=Verdana;fontSize=12;spacing=23;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="400" width="240" height="280" as="geometry" />
+        <mxCell id="RRqdGAsxoy1FdDmPXSII-20" value="Make sure that each functions has an appropriate docstring describing what the function does.&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;The main function does NOT have to have a docstring.&amp;nbsp;Include comments explaining pieces of code that are not immediately obvious." style="ellipse;shape=cloud;shadow=1;fontFamily=Verdana;fontSize=13;spacing=21;spacingTop=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="376" width="220" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
