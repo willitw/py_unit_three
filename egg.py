@@ -17,14 +17,13 @@ def print_symbols_line():
 
 # Call the functions to create the egg figure
 print_top_half()
+print_bottom_half()
 print_symbols_line()
 print_top_half()
+print_bottom_half()
 print_symbols_line()
 print_bottom_half()
 print_top_half()
 print_symbols_line()
 print_bottom_half()
-print_top_half()
-print_symbols_line()
-print_bottom_half()
-# i wasent able to finish this by myself
+
