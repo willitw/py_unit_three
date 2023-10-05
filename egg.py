@@ -1,9 +1,30 @@
 # Start writing your functions below this line
+# Function to print the top half of the egg
+# Function to print the top half of the egg
+def print_top_half():
+    print("  _______ ")
+    print(" /       \\")
+    print("/         \\")
 
+# Function to print the bottom half of the egg
+def print_bottom_half():
+    print("\\         /")
+    print(" \\_______/")
 
-def main():
-    # all of your function calls should go here. Remove the word "pass" before adding function calls.
-    pass
+# Function to print the line of symbols
+def print_symbols_line():
+    print('-"\'-\"\'-"-')
 
-if __name__ == '__main__':
-    main()
+# Call the functions to create the egg figure
+print_top_half()
+print_symbols_line()
+print_top_half()
+print_symbols_line()
+print_bottom_half()
+print_top_half()
+print_symbols_line()
+print_bottom_half()
+print_top_half()
+print_symbols_line()
+print_bottom_half()
+# i wasent able to finish this by myself
